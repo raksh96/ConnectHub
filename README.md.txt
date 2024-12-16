@@ -94,6 +94,7 @@ Contributions are welcome! If you'd like to contribute to ConnectHub, please fol
 5. Push to the branch (`git push origin feature-branch`).
 6. Open a pull request.
 
+## updated the app and fixed bugs
 
 ## Contact
 
